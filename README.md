@@ -5,12 +5,12 @@ Yuhan University Computer Software Engineering Major Club **3rd Class**
 <br>
 
 # 📖 Content
-- [🙌 Members](#🙌-members)
-- [🔧 Technology](#🔧-technology)
-- [🔎 Data](#🔎-data)
-- [📚 Projects](#📚-projects)
-- [🔗 Link](#🔗-link)
-- [📞 Contact](#📞-contact)
+- [🙌 Members](#-members)
+- [🔧 Technology](#-technology)
+- [🔎 Data](#-data)
+- [📚 Projects](#-projects)
+- [🔗 Link](#-link)
+- [📞 Contact](#-contact)
 
 # 🙌 Members
 
@@ -105,31 +105,31 @@ Yuhan University Computer Software Engineering Major Club **3rd Class**
     - ✉️ mangjun1974@gmail.com
     - [![github]](https://github.com/Mangjun)
 * 김남규
-    - ✉️ 
+    - ✉️ namgue0706@gmail.com
     - [![github]]()
 * 김형균
-    - ✉️ 
+    - ✉️ khk213624@naver.com
     - [![github]]()
 * 노종현
-    - ✉️ 
+    - ✉️ rkswlshwhd@naver.com
     - [![github]]()
 * 문승신
-    - ✉️ 
+    - ✉️ davidmoon824@naver.com
     - [![github]]()
 * 박상원
-    - ✉️ 
+    - ✉️ sosimman01@naver.com
     - [![github]]()
 * 송원석
-    - ✉️ 
+    - ✉️ q7750@naver.com
     - [![github]]()
 * 이석재
-    - ✉️ 
+    - ✉️ lsjclone1965@gmail.com
     - [![github]]()
 * 임성진
-    - ✉️ 
+    - ✉️ sjlim0321@naver.com
     - [![github]]()
 * 전경섭
-    - ✉️ 
+    - ✉️ tbvjaos203@gmail.com
     - [![github]]()
 
 <!-- Stack Icon Refernces -->
